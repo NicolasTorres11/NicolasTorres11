@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+</div>
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
